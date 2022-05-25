@@ -2,9 +2,9 @@
 
 Berfore starting this tutorial, let's understand what really is a CAPTCHA. It stands for Completely Automated Public Turing test to tell Computers and Humans Apart. This can sounds confusing but in short terms it is to distinguish humans from robots.
 
-This technology is use, or should be used, in every websites. You can attach this technology to a form, such as a contact form or a login form in order to prevent robots abuse thos forms. They could be using those to spam your email account or even to crash your website by creating tons of users.
+This technology is used, or should be used, in every websites. You can attach this technology to a form, such as a contact form or a login form in order to prevent robots abuse those forms. They could be using those to spam your email account or even to crash your website by creating tons of users.
 
-Concretely, CAPTCHA asks the user to do an action that only humans could accomplish, such as finding boats on different images, moving a puzzle piece to its right place, etc. Here is an exemple :
+Concretely, CAPTCHA asks the user to do an action that only humans can accomplish, such as finding boats on different images, moving a puzzle piece to its right place, etc. Here is an exemple :
 
 |![exemple captcha simple](imgs/captcha_exemple.jpg)|
 |:--:|
@@ -12,9 +12,11 @@ Concretely, CAPTCHA asks the user to do an action that only humans could accompl
 
 ## Google reCAPTCHA
 
-There is many companies proposing this kind of service. However, the most known of them is ... **Google** you guessed it.
+There are many companies proposing this kind of service. However, the most known of them is ... **Google** you guessed it.
 
-Google provides a **free** (*we'll get back to this information later*) CAPTCHA service which is called **reCAPTCHA**.
+Google provides a **free** CAPTCHA service which is called **reCAPTCHA**.
+
+Actually, it's a freenium but you can get up to **1 million CAPTCHA / month** with the free version.
 
 ### Versions
 
@@ -46,7 +48,7 @@ The first thing you need to do, is to create an account on the Google service.
 
 Go to that address : [reCAPTCHA Create Account](https://www.google.com/recaptcha/admin/create) and connect to your Gmail account.
 
-Then you'll end up with that page for registring a website :
+Then you'll end up with that page for registering a website :
 
 |![page for creating a recaptcha account step 1 of 2](imgs/recaptcha_create_account_1.jpg)|
 |:--:|
@@ -149,7 +151,7 @@ Author : [Maxence ZOLNIERUCK](https://www.linkedin.com/in/maxence-zol/)
 
 Write date : April 24th, 2022
 
-**Technologies:**
+**Technologies used:**
 
-![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
+- ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)
+- ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
